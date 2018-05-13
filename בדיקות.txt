@@ -1,0 +1,4 @@
+﻿<list_name>name="שימי"&icon=" "&fanart=" "&plot=" "&lang="heb"</list_name>
+<category>
+<category_name>name="בדיקות סרטים"&icon=" "&fanart=" "&plot=" "&data=@@ @@</category_name>
+</category>
